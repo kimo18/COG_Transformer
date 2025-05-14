@@ -1,0 +1,1 @@
+In this goodle drive link https://drive.google.com/drive/folders/1Vm9Qzd1BaJkVszS1HGT9x1G2BBeYAJYW?usp=sharing , you will find The data used for training the model, German abstract, all presentation with source file and the final thesis.
